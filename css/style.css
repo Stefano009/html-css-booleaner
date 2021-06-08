@@ -1,0 +1,21 @@
+body{
+    width: 60%;
+    margin: 0 auto;
+}
+
+
+#background{
+    width: 100%;
+    height: 100px;
+    background-color: #4EA0FF;
+    background-repeat: repeat-x;
+
+}
+.margine{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#blu{
+    color: #20A9E5;
+}
