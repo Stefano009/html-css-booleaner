@@ -37,3 +37,7 @@ ul{
 .ciano{
     background-color: cyan;
 }
+
+footer p {
+    color: grey;
+}
