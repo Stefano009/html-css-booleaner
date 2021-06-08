@@ -21,3 +21,19 @@ body{
 #blu{
     color: #20A9E5;
 }
+
+ul{
+    padding-left: 10px;
+}
+
+.quarto{
+    width: 25%;
+}
+ 
+.meta{
+    width: 50%;
+}
+
+.ciano{
+    background-color: cyan;
+}
