@@ -15,7 +15,9 @@ body{
     margin-top: 0;
     margin-bottom: 0;
 }
-
+.sfondogiallo{
+    background-color: yellow;
+}
 #blu{
     color: #20A9E5;
 }
